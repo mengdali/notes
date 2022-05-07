@@ -4,3 +4,4 @@
 /linux
 *.idea
 *.DS_Store
+*.test
